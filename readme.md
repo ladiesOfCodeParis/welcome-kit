@@ -12,4 +12,4 @@ Il y a différentes choses sur lesquelles vous pouvez agir.
 - Publier sur Instagram: cf. instagram 
 
 
-Nous utilisons beaucoup Slack pour interagir entre membres. Demandez une invitation par mail à paris[at]ladiesofcode.com !
+Nous utilisons beaucoup Slack pour interagir entre membres, en non-mixité. Demandez une invitation par mail à ladiesofcode.paris[at]gmail.com ! 
