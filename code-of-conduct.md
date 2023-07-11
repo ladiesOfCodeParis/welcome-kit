@@ -7,6 +7,17 @@ Il est cependant attendu de toutes et tous de respecter ce code de conduite afin
 
 Ce code de conduite s’applique à tous les membres de la communauté Ladies of Code, tous mediums confondus (Meetups, Slack).
 
+# Règles particulières sur la communauté Slack
+L'espace communautaire du Slack a été créé en non-mixité choisie afin que chacune puisse s'exprimer dans un environnement aussi sain et bienveillant que possible. 
+
+C'est pourquoi nous vous demandons de respecter dans vos messages et réponses cet esprit de bienveillance (voir les rubriques Comportement inacceptable et Comportement attendu). 
+
+Par ailleurs, ce slack étant un espace privé, **nous vous demandons aussi de respecter l'aspect intime des conversations qui s'y déroulent, et de ne pas les exporter de quelque façon que ce soit à l'extérieur.** 
+
+Si malgré tout vous souhaitiez partager le contenu d'une conversation (exemple, pour illustrer un article), merci de demander la permission explicite aux participantes. 
+
+Merci de votre compréhension !
+
 # Comportement attendu
 - Faire preuve de bienveillance envers les membres
 - Faire preuve de respect envers les membres
