@@ -12,7 +12,7 @@ Bienvenue parmi les coorganisatrices Ladies of Code ! On est bien contentes de t
 
 Concernant le point 1, cela va dépendre de l'événement que vous organisez (voir les readme spécifiques par type d'événement). 
 
-Concernant le point 2, on utilise Canva pour les visuels des meetups (template disponible [ici](https://www.canva.com/design/DAFBUeBes6o/u6Gs1b44JY6WxiPFJKmkww/edit?utm_content=DAFBUeBes6o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)). 
+Concernant le point 2, on utilise Canva pour les visuels des meetups avec [ce projet](https://www.canva.com/design/DAF6FkrcFLo/_Z5WccJITMX-2b1IVZ3hFw/edit).
 
 Le jour J lorsqu'on lance l'événement, il faut présenter la communauté Ladies of Code pour être identifiée en tant *qu'organisatrice de l'événement*. Cette présentation tient en 1 ou 2 minutes, voici un exemple ci-dessous. 
 
