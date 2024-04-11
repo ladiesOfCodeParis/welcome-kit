@@ -40,7 +40,7 @@ Merci de votre compréhension !
 # Applications
 La communauté se réserve le droit d’exclure tout membre ne respectant pas ce code de conduite.
 
-Si vous subissez une violation de ce code de conduite lors d’un de nos événements ou sur le Slack, n’hésitez pas à vous référer à une membre de l’équipe organisatrice présente lors de l’événement ou à nous envoyer un e-mail à paris@ladiesofcode.com
+Si vous subissez une violation de ce code de conduite lors d’un de nos événements ou sur le Slack, n’hésitez pas à vous référer à une membre de l’équipe organisatrice présente lors de l’événement ou à nous envoyer un e-mail à ladiesofcode.paris@gmail.com 
 
 # Ressources utiles
 Si vous êtes un homme voulant soutenir les initiatives #WomenInTech, voici un ensemble de ressources pouvant vous être utile.
