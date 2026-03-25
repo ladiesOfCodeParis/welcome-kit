@@ -45,7 +45,6 @@ Si vous subissez une violation de ce code de conduite lors d’un de nos événe
 # Ressources utiles
 Si vous êtes un homme voulant soutenir les initiatives #WomenInTech, voici un ensemble de ressources pouvant vous être utile.
 
-- https://www.dreamhost.com/blog/support-women-in-tech/
 - https://code.tutsplus.com/articles/10-things-men-can-do-to-support-women-in-tech--cms-30726
 - https://hbr.org/2018/10/how-men-can-become-better-allies-to-women
 
